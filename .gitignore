@@ -1,0 +1,9 @@
+@"
+texttovoice/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+"@ | Set-Content .gitignore
